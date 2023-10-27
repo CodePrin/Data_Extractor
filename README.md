@@ -3,7 +3,7 @@ In this project, data is extracted from the url present in the datasheet.
 
 
 ## Table Of Content
-* Objetive
+* Objective
 * Procedure
 * Tools
 * Files
